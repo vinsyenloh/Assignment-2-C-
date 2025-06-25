@@ -18,5 +18,10 @@
 1. 使用 Visual Studio 2022 打开项目。
 2. 确保所有源代码（.cpp 和 .h 文件）已正确加入项目。
 3. 编译项目（Build Solution）。
-4. 执行程序（Start Without Debugging），测试各项功能。
+4. 执行程序（Start Without Debugging），测试各项功能。<br/><br/>
 
+# 二叉搜索树的一个例子
+![image alt](https://github.com/vinsyenloh/Data-Structure2-cpp/blob/3c629fa398de3d949f2b50e05721dad1941de7cb/Example%20of%20BST.jpg)  <br/><br/>
+
+# Tree 1 & Tree 2
+![image alt](https://github.com/vinsyenloh/Data-Structure2-cpp/blob/3c629fa398de3d949f2b50e05721dad1941de7cb/Tree1%20%26%20Tree2.jpg)  
