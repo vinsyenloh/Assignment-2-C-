@@ -1,2 +1,5 @@
-# Assignment-2-C-
-Binary Search Tree (BST)
+项目名称：学生记录管理系统  
+开发语言：C++  
+开发工具：Microsoft Visual Studio 2022  
+
+=======================
